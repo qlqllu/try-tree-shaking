@@ -1,0 +1,2 @@
+System.register([],(function(e,o){return{execute:function(){e((()=>{"use strict";var e={d:(o,n)=>{for(var t in n)e.o(n,t)&&!e.o(o,t)&&Object.defineProperty(o,t,{enumerable:!0,get:n[t]})},o:(e,o)=>Object.prototype.hasOwnProperty.call(e,o),r:e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})}},o={};function n(){console.log("in main")}return e.r(o),e.d(o,{main:()=>n}),console.log("in ma f1"),console.log("in mb f3"),o})())}}}));
+//# sourceMappingURL=index.js.map
